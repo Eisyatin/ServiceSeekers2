@@ -39,7 +39,7 @@ The ServiceSeekers app is structured to ensure seamless functionality and secure
 - **Messaging**: In-app messaging for user-expert communication.
 - **Secure Payments**: Biometric authentication for payment processing.
 
-  
+  ![App Architecture](https://github.com/Eisyatin/ServiceSeekers2/blob/master/serviceseekers.drawio.png)
 
 ## App Flow
 
