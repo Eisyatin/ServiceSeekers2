@@ -1,4 +1,4 @@
-# ServiceSeekers
+# ServiceSeekers (Group Project)
 
 ServiceSeekers is a mobile application designed to simplify the process of hiring experts for household chores. Developed using Flutter and Firebase, this app allows users to easily find, contact, and hire professionals based on their proximity and expertise.
 
